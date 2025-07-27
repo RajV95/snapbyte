@@ -4,9 +4,7 @@ const page = async({ params } : ParamsWithSearch) => {
     const { id } = await params;
 
     return (
-    <main className='wrapper page'>
-        Video ID - {id}
-    </main>
+    <main className='wrapper page'>page - {id}</main>
   )
 }
 
