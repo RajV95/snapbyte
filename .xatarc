@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Login-User-s-workspace-ffijk5.us-east-1.xata.sh/db/snapbyte",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
